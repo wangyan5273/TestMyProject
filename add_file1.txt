@@ -1,2 +1,2 @@
-modify file2
-from feature2
+modify file1
+from feature1
